@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MD3 inspired dark theme colors (YouTube-like) -->
+    <color name="colorPrimary">#FF000000</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+    <color name="colorAccent">#FFFF0000</color>
+    <color name="colorControlHighlight">#33FFFFFF</color>
+    <color name="colorControlNormal">#FFFFFFFF</color>
+    
+    <!-- Surface & background -->
+    <color name="md_background">#FF0F0F0F</color>
+    <color name="md_surface">#FF1A1A1A</color>
+    <color name="md_surface_variant">#FF2A2A2A</color>
+    
+    <!-- Text -->
+    <color name="md_on_background">#FFFFFFFF</color>
+    <color name="md_on_surface">#FFE8E8E8</color>
+    <color name="md_on_surface_variant">#FFB3B3B3</color>
+    
+    <!-- Accent / Secondary -->
+    <color name="md_primary">#FFFF0000</color>
+    <color name="md_secondary">#FF3EA6FF</color>
+    
+    <color name="black">#DD000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Status bar / nav -->
+    <color name="status_bar">#FF000000</color>
+    <color name="navigation_bar">#FF000000</color>
+</resources>

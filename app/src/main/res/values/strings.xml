@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name" translatable="false">YouTube Pro</string>
+	<string name="grant_mic">Please Grant Microphone Permission in order to use Speech Recognition</string>
+	<string name="grant_storage">Please Grant Storage Permission in order to download files</string>
+	<string name="no_pip">Unfortunately, PIP is not supported on your Android version</string>
+	<string name="dl_started">Download started</string>
+	<string name="dl">Download</string>
+	<string name="convert_title">Convert to Audio</string>
+	<string name="convert_msg">Convert this video to high-quality audio (M4A)?</string>
+	<string name="convert_yes">Yes, Convert</string>
+	<string name="convert_no">No</string>
+	<string name="delete_after">Delete original video after conversion</string>
+	<string name="save_to_music">Save to Music/YTPRO folder</string>
+	<string name="converting">Converting audio…</string>
+	<string name="convert_done">Audio ready</string>
+	<string name="convert_fail">Conversion failed</string>
+	<string name="no_videos">No video files found in Downloads/YTPRO</string>
+	<string name="select_video">Select video to convert</string>
+</resources>
